@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+
+from tkinter import *
+
+root = Tk()
+Label(root, text="Hello, World!").pack()
+root.mainloop()
